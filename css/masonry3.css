@@ -1,0 +1,15 @@
+html, body{
+	margin:0;
+	padding:0;
+
+}
+.grid{
+	margin: 0 auto;
+}
+.grid .grid-item{
+	margin-bottom:10px;
+}
+.grid img{
+	width:400px;
+	height:auto;
+}
